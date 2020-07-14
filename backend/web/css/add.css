@@ -1,0 +1,54 @@
+._struct{
+    padding: 5px;
+    border: 1px solid grey !important;
+    height: 15em;
+    margin-top: 30px;
+}
+._struct-text{
+    text-align: left;
+    font-size: 14px;
+}
+._struct-text > ul{
+    padding-left: 13%;
+}
+._color-1{background-color: LightYellow;}
+._color-2{background-color: FloralWhite;}
+._color-3{background-color: HoneyDew;}
+._color-4{background-color: MintCream;}
+._color-5{background-color: PaleGoldenRod;}
+._color-6{background-color: Ivory;}
+
+._nav-container{
+    border: 1px solid grey !important;
+    padding: 1%;
+    width: 100%;
+    text-align: justify;
+}
+._nav-button{
+    border: 1px solid grey !important;
+    border-radius: 0 !important;
+    margin: 5px;
+}
+._italic{
+    font-style: italic;
+}
+._normal{
+    font-style:normal;
+}
+._sq{
+    border-radius: none !important;
+}
+._edit-price{
+    border: solid grey 1px;
+    margin: 2%;
+}
+._price-change{
+    margin-bottom: 20px;
+}
+._img-description{
+    font-size: 16px;
+    color: darkgreen;
+    border: solid darkgreen 1px;
+    padding: 1%;
+
+}
